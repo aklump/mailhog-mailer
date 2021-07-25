@@ -3,7 +3,7 @@
     "type": "symfony-bridge",
     "description": "Symfony Mailhog Mailer Bridge",
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "require": {
         "php": ">=7.2.5",
         "symfony\/mailer": "^5.2.6"
