@@ -1,6 +1,6 @@
 <?php
 
-namespace Symfony\Component\Mailer\Bridge\Mailgun\Transport;
+namespace Symfony\Component\Mailer\Bridge\Mailhog\Transport;
 
 use Psr\Log\LoggerInterface;
 use Symfony\Component\Mailer\Envelope;
